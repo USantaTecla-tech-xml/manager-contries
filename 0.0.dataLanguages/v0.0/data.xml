@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-  <element>
+<countries>
+  <country>
     <name>Afghanistan</name>
     <topLevelDomain array="true">.af</topLevelDomain>
     <alpha2Code>AF</alpha2Code>
@@ -69,8 +69,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>AFG</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Åland Islands</name>
     <topLevelDomain array="true">.ax</topLevelDomain>
     <alpha2Code>AX</alpha2Code>
@@ -124,8 +124,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Albania</name>
     <topLevelDomain array="true">.al</topLevelDomain>
     <alpha2Code>AL</alpha2Code>
@@ -182,8 +182,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>ALB</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Algeria</name>
     <topLevelDomain array="true">.dz</topLevelDomain>
     <alpha2Code>DZ</alpha2Code>
@@ -254,8 +254,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>ALG</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>American Samoa</name>
     <topLevelDomain array="true">.as</topLevelDomain>
     <alpha2Code>AS</alpha2Code>
@@ -310,8 +310,8 @@
     <flag>https://restcountries.eu/data/asm.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>ASA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Andorra</name>
     <topLevelDomain array="true">.ad</topLevelDomain>
     <alpha2Code>AD</alpha2Code>
@@ -360,8 +360,8 @@
     <flag>https://restcountries.eu/data/and.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>AND</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Angola</name>
     <topLevelDomain array="true">.ao</topLevelDomain>
     <alpha2Code>AO</alpha2Code>
@@ -421,8 +421,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>ANG</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Anguilla</name>
     <topLevelDomain array="true">.ai</topLevelDomain>
     <alpha2Code>AI</alpha2Code>
@@ -468,8 +468,8 @@
     <flag>https://restcountries.eu/data/aia.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Antarctica</name>
     <topLevelDomain array="true">.aq</topLevelDomain>
     <alpha2Code>AQ</alpha2Code>
@@ -533,8 +533,8 @@
     <flag>https://restcountries.eu/data/ata.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Antigua and Barbuda</name>
     <topLevelDomain array="true">.ag</topLevelDomain>
     <alpha2Code>AG</alpha2Code>
@@ -587,8 +587,8 @@
       <otherNames>Caribische Gemeenschap</otherNames>
     </regionalBlocs>
     <cioc>ANT</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Argentina</name>
     <topLevelDomain array="true">.ar</topLevelDomain>
     <alpha2Code>AR</alpha2Code>
@@ -656,8 +656,8 @@
       <otherNames>South American Union</otherNames>
     </regionalBlocs>
     <cioc>ARG</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Armenia</name>
     <topLevelDomain array="true">.am</topLevelDomain>
     <alpha2Code>AM</alpha2Code>
@@ -720,8 +720,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>ARM</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Aruba</name>
     <topLevelDomain array="true">.aw</topLevelDomain>
     <alpha2Code>AW</alpha2Code>
@@ -773,8 +773,8 @@
     <flag>https://restcountries.eu/data/abw.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>ARU</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Australia</name>
     <topLevelDomain array="true">.au</topLevelDomain>
     <alpha2Code>AU</alpha2Code>
@@ -827,8 +827,8 @@
     <flag>https://restcountries.eu/data/aus.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>AUS</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Austria</name>
     <topLevelDomain array="true">.at</topLevelDomain>
     <alpha2Code>AT</alpha2Code>
@@ -889,8 +889,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>AUT</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Azerbaijan</name>
     <topLevelDomain array="true">.az</topLevelDomain>
     <alpha2Code>AZ</alpha2Code>
@@ -942,8 +942,8 @@
     <flag>https://restcountries.eu/data/aze.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>AZE</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Bahamas</name>
     <topLevelDomain array="true">.bs</topLevelDomain>
     <alpha2Code>BS</alpha2Code>
@@ -997,8 +997,8 @@
       <otherNames>Caribische Gemeenschap</otherNames>
     </regionalBlocs>
     <cioc>BAH</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Bahrain</name>
     <topLevelDomain array="true">.bh</topLevelDomain>
     <alpha2Code>BH</alpha2Code>
@@ -1053,8 +1053,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>BRN</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Bangladesh</name>
     <topLevelDomain array="true">.bd</topLevelDomain>
     <alpha2Code>BD</alpha2Code>
@@ -1108,8 +1108,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>BAN</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Barbados</name>
     <topLevelDomain array="true">.bb</topLevelDomain>
     <alpha2Code>BB</alpha2Code>
@@ -1162,8 +1162,8 @@
       <otherNames>Caribische Gemeenschap</otherNames>
     </regionalBlocs>
     <cioc>BAR</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Belarus</name>
     <topLevelDomain array="true">.by</topLevelDomain>
     <alpha2Code>BY</alpha2Code>
@@ -1235,8 +1235,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>BLR</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Belgium</name>
     <topLevelDomain array="true">.be</topLevelDomain>
     <alpha2Code>BE</alpha2Code>
@@ -1310,8 +1310,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>BEL</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Belize</name>
     <topLevelDomain array="true">.bz</topLevelDomain>
     <alpha2Code>BZ</alpha2Code>
@@ -1377,8 +1377,8 @@
       <otherNames array="true">Sistema de la Integración Centroamericana,</otherNames>
     </regionalBlocs>
     <cioc>BIZ</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Benin</name>
     <topLevelDomain array="true">.bj</topLevelDomain>
     <alpha2Code>BJ</alpha2Code>
@@ -1438,8 +1438,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>BEN</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Bermuda</name>
     <topLevelDomain array="true">.bm</topLevelDomain>
     <alpha2Code>BM</alpha2Code>
@@ -1488,8 +1488,8 @@
     <flag>https://restcountries.eu/data/bmu.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>BER</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Bhutan</name>
     <topLevelDomain array="true">.bt</topLevelDomain>
     <alpha2Code>BT</alpha2Code>
@@ -1547,8 +1547,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>BHU</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Bolivia (Plurinational State of)</name>
     <topLevelDomain array="true">.bo</topLevelDomain>
     <alpha2Code>BO</alpha2Code>
@@ -1627,8 +1627,8 @@
       <otherNames>South American Union</otherNames>
     </regionalBlocs>
     <cioc>BOL</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Bonaire, Sint Eustatius and Saba</name>
     <topLevelDomain>.an</topLevelDomain>
     <topLevelDomain>.nl</topLevelDomain>
@@ -1676,8 +1676,8 @@
     <flag>https://restcountries.eu/data/bes.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc null="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Bosnia and Herzegovina</name>
     <topLevelDomain array="true">.ba</topLevelDomain>
     <alpha2Code>BA</alpha2Code>
@@ -1744,8 +1744,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>BIH</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Botswana</name>
     <topLevelDomain array="true">.bw</topLevelDomain>
     <alpha2Code>BW</alpha2Code>
@@ -1811,8 +1811,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>BOT</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Bouvet Island</name>
     <topLevelDomain array="true">.bv</topLevelDomain>
     <alpha2Code>BV</alpha2Code>
@@ -1872,8 +1872,8 @@
     <flag>https://restcountries.eu/data/bvt.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Brazil</name>
     <topLevelDomain array="true">.br</topLevelDomain>
     <alpha2Code>BR</alpha2Code>
@@ -1944,8 +1944,8 @@
       <otherNames>South American Union</otherNames>
     </regionalBlocs>
     <cioc>BRA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>British Indian Ocean Territory</name>
     <topLevelDomain array="true">.io</topLevelDomain>
     <alpha2Code>IO</alpha2Code>
@@ -2000,8 +2000,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>United States Minor Outlying Islands</name>
     <topLevelDomain array="true">.us</topLevelDomain>
     <alpha2Code>UM</alpha2Code>
@@ -2048,8 +2048,8 @@
     <flag>https://restcountries.eu/data/umi.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Virgin Islands (British)</name>
     <topLevelDomain array="true">.vg</topLevelDomain>
     <alpha2Code>VG</alpha2Code>
@@ -2100,8 +2100,8 @@
     <flag>https://restcountries.eu/data/vgb.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>IVB</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Virgin Islands (U.S.)</name>
     <topLevelDomain array="true">.vi</topLevelDomain>
     <alpha2Code>VI</alpha2Code>
@@ -2150,8 +2150,8 @@
     <flag>https://restcountries.eu/data/vir.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>ISV</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Brunei Darussalam</name>
     <topLevelDomain array="true">.bn</topLevelDomain>
     <alpha2Code>BN</alpha2Code>
@@ -2209,8 +2209,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>BRU</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Bulgaria</name>
     <topLevelDomain array="true">.bg</topLevelDomain>
     <alpha2Code>BG</alpha2Code>
@@ -2267,8 +2267,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>BUL</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Burkina Faso</name>
     <topLevelDomain array="true">.bf</topLevelDomain>
     <alpha2Code>BF</alpha2Code>
@@ -2334,8 +2334,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>BUR</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Burundi</name>
     <topLevelDomain array="true">.bi</topLevelDomain>
     <alpha2Code>BI</alpha2Code>
@@ -2401,8 +2401,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>BDI</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Cambodia</name>
     <topLevelDomain array="true">.kh</topLevelDomain>
     <alpha2Code>KH</alpha2Code>
@@ -2461,8 +2461,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>CAM</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Cameroon</name>
     <topLevelDomain array="true">.cm</topLevelDomain>
     <alpha2Code>CM</alpha2Code>
@@ -2530,8 +2530,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>CMR</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Canada</name>
     <topLevelDomain array="true">.ca</topLevelDomain>
     <alpha2Code>CA</alpha2Code>
@@ -2594,8 +2594,8 @@
       <otherNames>Accord de Libre-échange Nord-Américain</otherNames>
     </regionalBlocs>
     <cioc>CAN</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Cabo Verde</name>
     <topLevelDomain array="true">.cv</topLevelDomain>
     <alpha2Code>CV</alpha2Code>
@@ -2652,8 +2652,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>CPV</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Cayman Islands</name>
     <topLevelDomain array="true">.ky</topLevelDomain>
     <alpha2Code>KY</alpha2Code>
@@ -2699,8 +2699,8 @@
     <flag>https://restcountries.eu/data/cym.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>CAY</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Central African Republic</name>
     <topLevelDomain array="true">.cf</topLevelDomain>
     <alpha2Code>CF</alpha2Code>
@@ -2768,8 +2768,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>CAF</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Chad</name>
     <topLevelDomain array="true">.td</topLevelDomain>
     <alpha2Code>TD</alpha2Code>
@@ -2838,8 +2838,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>CHA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Chile</name>
     <topLevelDomain array="true">.cl</topLevelDomain>
     <alpha2Code>CL</alpha2Code>
@@ -2906,8 +2906,8 @@
       <otherNames>South American Union</otherNames>
     </regionalBlocs>
     <cioc>CHI</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>China</name>
     <topLevelDomain array="true">.cn</topLevelDomain>
     <alpha2Code>CN</alpha2Code>
@@ -2973,8 +2973,8 @@
     <flag>https://restcountries.eu/data/chn.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>CHN</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Christmas Island</name>
     <topLevelDomain array="true">.cx</topLevelDomain>
     <alpha2Code>CX</alpha2Code>
@@ -3021,8 +3021,8 @@
     <flag>https://restcountries.eu/data/cxr.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Cocos (Keeling) Islands</name>
     <topLevelDomain array="true">.cc</topLevelDomain>
     <alpha2Code>CC</alpha2Code>
@@ -3070,8 +3070,8 @@
     <flag>https://restcountries.eu/data/cck.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Colombia</name>
     <topLevelDomain array="true">.co</topLevelDomain>
     <alpha2Code>CO</alpha2Code>
@@ -3139,8 +3139,8 @@
       <otherNames>South American Union</otherNames>
     </regionalBlocs>
     <cioc>COL</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Comoros</name>
     <topLevelDomain array="true">.km</topLevelDomain>
     <alpha2Code>KM</alpha2Code>
@@ -3213,8 +3213,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>COM</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Congo</name>
     <topLevelDomain array="true">.cg</topLevelDomain>
     <alpha2Code>CG</alpha2Code>
@@ -3280,8 +3280,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>CGO</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Congo (Democratic Republic of the)</name>
     <topLevelDomain array="true">.cd</topLevelDomain>
     <alpha2Code>CD</alpha2Code>
@@ -3372,8 +3372,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>COD</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Cook Islands</name>
     <topLevelDomain array="true">.ck</topLevelDomain>
     <alpha2Code>CK</alpha2Code>
@@ -3425,8 +3425,8 @@
     <flag>https://restcountries.eu/data/cok.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>COK</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Costa Rica</name>
     <topLevelDomain array="true">.cr</topLevelDomain>
     <alpha2Code>CR</alpha2Code>
@@ -3480,8 +3480,8 @@
       <otherNames array="true">Sistema de la Integración Centroamericana,</otherNames>
     </regionalBlocs>
     <cioc>CRC</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Croatia</name>
     <topLevelDomain array="true">.hr</topLevelDomain>
     <alpha2Code>HR</alpha2Code>
@@ -3539,8 +3539,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>CRO</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Cuba</name>
     <topLevelDomain array="true">.cu</topLevelDomain>
     <alpha2Code>CU</alpha2Code>
@@ -3593,8 +3593,8 @@
     <flag>https://restcountries.eu/data/cub.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>CUB</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Curaçao</name>
     <topLevelDomain array="true">.cw</topLevelDomain>
     <alpha2Code>CW</alpha2Code>
@@ -3657,8 +3657,8 @@
     <flag>https://restcountries.eu/data/cuw.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Cyprus</name>
     <topLevelDomain array="true">.cy</topLevelDomain>
     <alpha2Code>CY</alpha2Code>
@@ -3726,8 +3726,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>CYP</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Czech Republic</name>
     <topLevelDomain array="true">.cz</topLevelDomain>
     <alpha2Code>CZ</alpha2Code>
@@ -3789,8 +3789,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>CZE</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Denmark</name>
     <topLevelDomain array="true">.dk</topLevelDomain>
     <alpha2Code>DK</alpha2Code>
@@ -3848,8 +3848,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>DEN</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Djibouti</name>
     <topLevelDomain array="true">.dj</topLevelDomain>
     <alpha2Code>DJ</alpha2Code>
@@ -3926,8 +3926,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>DJI</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Dominica</name>
     <topLevelDomain array="true">.dm</topLevelDomain>
     <alpha2Code>DM</alpha2Code>
@@ -3976,8 +3976,8 @@
     <flag>https://restcountries.eu/data/dma.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>DMA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Dominican Republic</name>
     <topLevelDomain array="true">.do</topLevelDomain>
     <alpha2Code>DO</alpha2Code>
@@ -4038,8 +4038,8 @@
       <otherNames array="true">Sistema de la Integración Centroamericana,</otherNames>
     </regionalBlocs>
     <cioc>DOM</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Ecuador</name>
     <topLevelDomain array="true">.ec</topLevelDomain>
     <alpha2Code>EC</alpha2Code>
@@ -4099,8 +4099,8 @@
       <otherNames>South American Union</otherNames>
     </regionalBlocs>
     <cioc>ECU</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Egypt</name>
     <topLevelDomain array="true">.eg</topLevelDomain>
     <alpha2Code>EG</alpha2Code>
@@ -4166,8 +4166,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>EGY</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>El Salvador</name>
     <topLevelDomain array="true">.sv</topLevelDomain>
     <alpha2Code>SV</alpha2Code>
@@ -4221,8 +4221,8 @@
       <otherNames array="true">Sistema de la Integración Centroamericana,</otherNames>
     </regionalBlocs>
     <cioc>ESA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Equatorial Guinea</name>
     <topLevelDomain array="true">.gq</topLevelDomain>
     <alpha2Code>GQ</alpha2Code>
@@ -4288,8 +4288,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>GEQ</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Eritrea</name>
     <topLevelDomain array="true">.er</topLevelDomain>
     <alpha2Code>ER</alpha2Code>
@@ -4364,8 +4364,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>ERI</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Estonia</name>
     <topLevelDomain array="true">.ee</topLevelDomain>
     <alpha2Code>EE</alpha2Code>
@@ -4420,8 +4420,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>EST</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Ethiopia</name>
     <topLevelDomain array="true">.et</topLevelDomain>
     <alpha2Code>ET</alpha2Code>
@@ -4484,8 +4484,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>ETH</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Falkland Islands (Malvinas)</name>
     <topLevelDomain array="true">.fk</topLevelDomain>
     <alpha2Code>FK</alpha2Code>
@@ -4542,8 +4542,8 @@
       <otherNames>South American Union</otherNames>
     </regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Faroe Islands</name>
     <topLevelDomain array="true">.fo</topLevelDomain>
     <alpha2Code>FO</alpha2Code>
@@ -4601,8 +4601,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Fiji</name>
     <topLevelDomain array="true">.fj</topLevelDomain>
     <alpha2Code>FJ</alpha2Code>
@@ -4670,8 +4670,8 @@
     <flag>https://restcountries.eu/data/fji.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>FIJ</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Finland</name>
     <topLevelDomain array="true">.fi</topLevelDomain>
     <alpha2Code>FI</alpha2Code>
@@ -4734,8 +4734,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>FIN</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>France</name>
     <topLevelDomain array="true">.fr</topLevelDomain>
     <alpha2Code>FR</alpha2Code>
@@ -4806,8 +4806,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>FRA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>French Guiana</name>
     <topLevelDomain array="true">.gf</topLevelDomain>
     <alpha2Code>GF</alpha2Code>
@@ -4872,8 +4872,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>French Polynesia</name>
     <topLevelDomain array="true">.pf</topLevelDomain>
     <alpha2Code>PF</alpha2Code>
@@ -4924,8 +4924,8 @@
     <flag>https://restcountries.eu/data/pyf.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>French Southern Territories</name>
     <topLevelDomain array="true">.tf</topLevelDomain>
     <alpha2Code>TF</alpha2Code>
@@ -4980,8 +4980,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Gabon</name>
     <topLevelDomain array="true">.ga</topLevelDomain>
     <alpha2Code>GA</alpha2Code>
@@ -5040,8 +5040,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>GAB</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Gambia</name>
     <topLevelDomain array="true">.gm</topLevelDomain>
     <alpha2Code>GM</alpha2Code>
@@ -5097,8 +5097,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>GAM</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Georgia</name>
     <topLevelDomain array="true">.ge</topLevelDomain>
     <alpha2Code>GE</alpha2Code>
@@ -5148,8 +5148,8 @@
     <flag>https://restcountries.eu/data/geo.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>GEO</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Germany</name>
     <topLevelDomain array="true">.de</topLevelDomain>
     <alpha2Code>DE</alpha2Code>
@@ -5210,8 +5210,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>GER</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Ghana</name>
     <topLevelDomain array="true">.gh</topLevelDomain>
     <alpha2Code>GH</alpha2Code>
@@ -5268,8 +5268,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>GHA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Gibraltar</name>
     <topLevelDomain array="true">.gi</topLevelDomain>
     <alpha2Code>GI</alpha2Code>
@@ -5320,8 +5320,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Greece</name>
     <topLevelDomain array="true">.gr</topLevelDomain>
     <alpha2Code>GR</alpha2Code>
@@ -5378,8 +5378,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>GRE</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Greenland</name>
     <topLevelDomain array="true">.gl</topLevelDomain>
     <alpha2Code>GL</alpha2Code>
@@ -5429,8 +5429,8 @@
     <flag>https://restcountries.eu/data/grl.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Grenada</name>
     <topLevelDomain array="true">.gd</topLevelDomain>
     <alpha2Code>GD</alpha2Code>
@@ -5483,8 +5483,8 @@
       <otherNames>Caribische Gemeenschap</otherNames>
     </regionalBlocs>
     <cioc>GRN</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Guadeloupe</name>
     <topLevelDomain array="true">.gp</topLevelDomain>
     <alpha2Code>GP</alpha2Code>
@@ -5531,8 +5531,8 @@
     <flag>https://restcountries.eu/data/glp.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Guam</name>
     <topLevelDomain array="true">.gu</topLevelDomain>
     <alpha2Code>GU</alpha2Code>
@@ -5591,8 +5591,8 @@
     <flag>https://restcountries.eu/data/gum.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>GUM</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Guatemala</name>
     <topLevelDomain array="true">.gt</topLevelDomain>
     <alpha2Code>GT</alpha2Code>
@@ -5646,8 +5646,8 @@
       <otherNames array="true">Sistema de la Integración Centroamericana,</otherNames>
     </regionalBlocs>
     <cioc>GUA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Guernsey</name>
     <topLevelDomain array="true">.gg</topLevelDomain>
     <alpha2Code>GG</alpha2Code>
@@ -5706,8 +5706,8 @@
     <flag>https://restcountries.eu/data/ggy.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Guinea</name>
     <topLevelDomain array="true">.gn</topLevelDomain>
     <alpha2Code>GN</alpha2Code>
@@ -5775,8 +5775,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>GUI</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Guinea-Bissau</name>
     <topLevelDomain array="true">.gw</topLevelDomain>
     <alpha2Code>GW</alpha2Code>
@@ -5834,8 +5834,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>GBS</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Guyana</name>
     <topLevelDomain array="true">.gy</topLevelDomain>
     <alpha2Code>GY</alpha2Code>
@@ -5902,8 +5902,8 @@
       <otherNames>South American Union</otherNames>
     </regionalBlocs>
     <cioc>GUY</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Haiti</name>
     <topLevelDomain array="true">.ht</topLevelDomain>
     <alpha2Code>HT</alpha2Code>
@@ -5965,8 +5965,8 @@
       <otherNames>Caribische Gemeenschap</otherNames>
     </regionalBlocs>
     <cioc>HAI</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Heard Island and McDonald Islands</name>
     <topLevelDomain>.hm</topLevelDomain>
     <topLevelDomain>.aq</topLevelDomain>
@@ -6013,8 +6013,8 @@
     <flag>https://restcountries.eu/data/hmd.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Holy See</name>
     <topLevelDomain array="true">.va</topLevelDomain>
     <alpha2Code>VA</alpha2Code>
@@ -6080,8 +6080,8 @@
     <flag>https://restcountries.eu/data/vat.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Honduras</name>
     <topLevelDomain array="true">.hn</topLevelDomain>
     <alpha2Code>HN</alpha2Code>
@@ -6136,8 +6136,8 @@
       <otherNames array="true">Sistema de la Integración Centroamericana,</otherNames>
     </regionalBlocs>
     <cioc>HON</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Hong Kong</name>
     <topLevelDomain array="true">.hk</topLevelDomain>
     <alpha2Code>HK</alpha2Code>
@@ -6190,8 +6190,8 @@
     <flag>https://restcountries.eu/data/hkg.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>HKG</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Hungary</name>
     <topLevelDomain array="true">.hu</topLevelDomain>
     <alpha2Code>HU</alpha2Code>
@@ -6248,8 +6248,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>HUN</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Iceland</name>
     <topLevelDomain array="true">.is</topLevelDomain>
     <alpha2Code>IS</alpha2Code>
@@ -6303,8 +6303,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>ISL</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>India</name>
     <topLevelDomain array="true">.in</topLevelDomain>
     <alpha2Code>IN</alpha2Code>
@@ -6371,8 +6371,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>IND</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Indonesia</name>
     <topLevelDomain array="true">.id</topLevelDomain>
     <alpha2Code>ID</alpha2Code>
@@ -6429,8 +6429,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>INA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Côte d'Ivoire</name>
     <topLevelDomain array="true">.ci</topLevelDomain>
     <alpha2Code>CI</alpha2Code>
@@ -6492,8 +6492,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>CIV</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Iran (Islamic Republic of)</name>
     <topLevelDomain array="true">.ir</topLevelDomain>
     <alpha2Code>IR</alpha2Code>
@@ -6547,8 +6547,8 @@
     <flag>https://restcountries.eu/data/irn.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>IRI</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Iraq</name>
     <topLevelDomain array="true">.iq</topLevelDomain>
     <alpha2Code>IQ</alpha2Code>
@@ -6614,8 +6614,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>IRQ</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Ireland</name>
     <topLevelDomain array="true">.ie</topLevelDomain>
     <alpha2Code>IE</alpha2Code>
@@ -6675,8 +6675,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>IRL</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Isle of Man</name>
     <topLevelDomain array="true">.im</topLevelDomain>
     <alpha2Code>IM</alpha2Code>
@@ -6741,8 +6741,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Israel</name>
     <topLevelDomain array="true">.il</topLevelDomain>
     <alpha2Code>IL</alpha2Code>
@@ -6799,8 +6799,8 @@
     <flag>https://restcountries.eu/data/isr.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>ISR</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Italy</name>
     <topLevelDomain array="true">.it</topLevelDomain>
     <alpha2Code>IT</alpha2Code>
@@ -6858,8 +6858,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>ITA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Jamaica</name>
     <topLevelDomain array="true">.jm</topLevelDomain>
     <alpha2Code>JM</alpha2Code>
@@ -6912,8 +6912,8 @@
       <otherNames>Caribische Gemeenschap</otherNames>
     </regionalBlocs>
     <cioc>JAM</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Japan</name>
     <topLevelDomain array="true">.jp</topLevelDomain>
     <alpha2Code>JP</alpha2Code>
@@ -6961,8 +6961,8 @@
     <flag>https://restcountries.eu/data/jpn.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>JPN</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Jersey</name>
     <topLevelDomain array="true">.je</topLevelDomain>
     <alpha2Code>JE</alpha2Code>
@@ -7022,8 +7022,8 @@
     <flag>https://restcountries.eu/data/jey.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Jordan</name>
     <topLevelDomain array="true">.jo</topLevelDomain>
     <alpha2Code>JO</alpha2Code>
@@ -7081,8 +7081,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>JOR</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Kazakhstan</name>
     <topLevelDomain>.kz</topLevelDomain>
     <topLevelDomain>.қаз</topLevelDomain>
@@ -7153,8 +7153,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>KAZ</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Kenya</name>
     <topLevelDomain array="true">.ke</topLevelDomain>
     <alpha2Code>KE</alpha2Code>
@@ -7221,8 +7221,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>KEN</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Kiribati</name>
     <topLevelDomain array="true">.ki</topLevelDomain>
     <alpha2Code>KI</alpha2Code>
@@ -7277,8 +7277,8 @@
     <flag>https://restcountries.eu/data/kir.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>KIR</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Kuwait</name>
     <topLevelDomain array="true">.kw</topLevelDomain>
     <alpha2Code>KW</alpha2Code>
@@ -7334,8 +7334,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>KUW</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Kyrgyzstan</name>
     <topLevelDomain array="true">.kg</topLevelDomain>
     <alpha2Code>KG</alpha2Code>
@@ -7399,8 +7399,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>KGZ</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Lao People's Democratic Republic</name>
     <topLevelDomain array="true">.la</topLevelDomain>
     <alpha2Code>LA</alpha2Code>
@@ -7459,8 +7459,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>LAO</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Latvia</name>
     <topLevelDomain array="true">.lv</topLevelDomain>
     <alpha2Code>LV</alpha2Code>
@@ -7516,8 +7516,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>LAT</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Lebanon</name>
     <topLevelDomain array="true">.lb</topLevelDomain>
     <alpha2Code>LB</alpha2Code>
@@ -7579,8 +7579,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>LIB</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Lesotho</name>
     <topLevelDomain array="true">.ls</topLevelDomain>
     <alpha2Code>LS</alpha2Code>
@@ -7648,8 +7648,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>LES</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Liberia</name>
     <topLevelDomain array="true">.lr</topLevelDomain>
     <alpha2Code>LR</alpha2Code>
@@ -7707,8 +7707,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>LBR</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Libya</name>
     <topLevelDomain array="true">.ly</topLevelDomain>
     <alpha2Code>LY</alpha2Code>
@@ -7778,8 +7778,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>LBA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Liechtenstein</name>
     <topLevelDomain array="true">.li</topLevelDomain>
     <alpha2Code>LI</alpha2Code>
@@ -7833,8 +7833,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>LIE</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Lithuania</name>
     <topLevelDomain array="true">.lt</topLevelDomain>
     <alpha2Code>LT</alpha2Code>
@@ -7890,8 +7890,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>LTU</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Luxembourg</name>
     <topLevelDomain array="true">.lu</topLevelDomain>
     <alpha2Code>LU</alpha2Code>
@@ -7960,8 +7960,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>LUX</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Macao</name>
     <topLevelDomain array="true">.mo</topLevelDomain>
     <alpha2Code>MO</alpha2Code>
@@ -8017,8 +8017,8 @@
     <flag>https://restcountries.eu/data/mac.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Macedonia (the former Yugoslav Republic of)</name>
     <topLevelDomain array="true">.mk</topLevelDomain>
     <alpha2Code>MK</alpha2Code>
@@ -8075,8 +8075,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>MKD</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Madagascar</name>
     <topLevelDomain array="true">.mg</topLevelDomain>
     <alpha2Code>MG</alpha2Code>
@@ -8140,8 +8140,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>MAD</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Malawi</name>
     <topLevelDomain array="true">.mw</topLevelDomain>
     <alpha2Code>MW</alpha2Code>
@@ -8205,8 +8205,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>MAW</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Malaysia</name>
     <topLevelDomain array="true">.my</topLevelDomain>
     <alpha2Code>MY</alpha2Code>
@@ -8259,8 +8259,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>MAS</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Maldives</name>
     <topLevelDomain array="true">.mv</topLevelDomain>
     <alpha2Code>MV</alpha2Code>
@@ -8314,8 +8314,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>MDV</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Mali</name>
     <topLevelDomain array="true">.ml</topLevelDomain>
     <alpha2Code>ML</alpha2Code>
@@ -8378,8 +8378,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>MLI</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Malta</name>
     <topLevelDomain array="true">.mt</topLevelDomain>
     <alpha2Code>MT</alpha2Code>
@@ -8438,8 +8438,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>MLT</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Marshall Islands</name>
     <topLevelDomain array="true">.mh</topLevelDomain>
     <alpha2Code>MH</alpha2Code>
@@ -8493,8 +8493,8 @@
     <flag>https://restcountries.eu/data/mhl.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>MHL</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Martinique</name>
     <topLevelDomain array="true">.mq</topLevelDomain>
     <alpha2Code>MQ</alpha2Code>
@@ -8540,8 +8540,8 @@
     <flag>https://restcountries.eu/data/mtq.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Mauritania</name>
     <topLevelDomain array="true">.mr</topLevelDomain>
     <alpha2Code>MR</alpha2Code>
@@ -8609,8 +8609,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>MTN</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Mauritius</name>
     <topLevelDomain array="true">.mu</topLevelDomain>
     <alpha2Code>MU</alpha2Code>
@@ -8667,8 +8667,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>MRI</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Mayotte</name>
     <topLevelDomain array="true">.yt</topLevelDomain>
     <alpha2Code>YT</alpha2Code>
@@ -8725,8 +8725,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Mexico</name>
     <topLevelDomain array="true">.mx</topLevelDomain>
     <alpha2Code>MX</alpha2Code>
@@ -8791,8 +8791,8 @@
       <otherNames>Accord de Libre-échange Nord-Américain</otherNames>
     </regionalBlocs>
     <cioc>MEX</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Micronesia (Federated States of)</name>
     <topLevelDomain array="true">.fm</topLevelDomain>
     <alpha2Code>FM</alpha2Code>
@@ -8845,8 +8845,8 @@
     <flag>https://restcountries.eu/data/fsm.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>FSM</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Moldova (Republic of)</name>
     <topLevelDomain array="true">.md</topLevelDomain>
     <alpha2Code>MD</alpha2Code>
@@ -8900,8 +8900,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>MDA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Monaco</name>
     <topLevelDomain array="true">.mc</topLevelDomain>
     <alpha2Code>MC</alpha2Code>
@@ -8949,8 +8949,8 @@
     <flag>https://restcountries.eu/data/mco.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>MON</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Mongolia</name>
     <topLevelDomain array="true">.mn</topLevelDomain>
     <alpha2Code>MN</alpha2Code>
@@ -8998,8 +8998,8 @@
     <flag>https://restcountries.eu/data/mng.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>MGL</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Montenegro</name>
     <topLevelDomain array="true">.me</topLevelDomain>
     <alpha2Code>ME</alpha2Code>
@@ -9073,8 +9073,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>MNE</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Montserrat</name>
     <topLevelDomain array="true">.ms</topLevelDomain>
     <alpha2Code>MS</alpha2Code>
@@ -9127,8 +9127,8 @@
       <otherNames>Caribische Gemeenschap</otherNames>
     </regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Morocco</name>
     <topLevelDomain array="true">.ma</topLevelDomain>
     <alpha2Code>MA</alpha2Code>
@@ -9195,8 +9195,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>MAR</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Mozambique</name>
     <topLevelDomain array="true">.mz</topLevelDomain>
     <alpha2Code>MZ</alpha2Code>
@@ -9258,8 +9258,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>MOZ</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Myanmar</name>
     <topLevelDomain array="true">.mm</topLevelDomain>
     <alpha2Code>MM</alpha2Code>
@@ -9317,8 +9317,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>MYA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Namibia</name>
     <topLevelDomain array="true">.na</topLevelDomain>
     <alpha2Code>NA</alpha2Code>
@@ -9389,8 +9389,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>NAM</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Nauru</name>
     <topLevelDomain array="true">.nr</topLevelDomain>
     <alpha2Code>NR</alpha2Code>
@@ -9451,8 +9451,8 @@
     <flag>https://restcountries.eu/data/nru.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>NRU</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Nepal</name>
     <topLevelDomain array="true">.np</topLevelDomain>
     <alpha2Code>NP</alpha2Code>
@@ -9506,8 +9506,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>NEP</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Netherlands</name>
     <topLevelDomain array="true">.nl</topLevelDomain>
     <alpha2Code>NL</alpha2Code>
@@ -9562,8 +9562,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>NED</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>New Caledonia</name>
     <topLevelDomain array="true">.nc</topLevelDomain>
     <alpha2Code>NC</alpha2Code>
@@ -9609,8 +9609,8 @@
     <flag>https://restcountries.eu/data/ncl.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>New Zealand</name>
     <topLevelDomain array="true">.nz</topLevelDomain>
     <alpha2Code>NZ</alpha2Code>
@@ -9667,8 +9667,8 @@
     <flag>https://restcountries.eu/data/nzl.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>NZL</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Nicaragua</name>
     <topLevelDomain array="true">.ni</topLevelDomain>
     <alpha2Code>NI</alpha2Code>
@@ -9722,8 +9722,8 @@
       <otherNames array="true">Sistema de la Integración Centroamericana,</otherNames>
     </regionalBlocs>
     <cioc>NCA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Niger</name>
     <topLevelDomain array="true">.ne</topLevelDomain>
     <alpha2Code>NE</alpha2Code>
@@ -9787,8 +9787,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>NIG</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Nigeria</name>
     <topLevelDomain array="true">.ng</topLevelDomain>
     <alpha2Code>NG</alpha2Code>
@@ -9849,8 +9849,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>NGR</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Niue</name>
     <topLevelDomain array="true">.nu</topLevelDomain>
     <alpha2Code>NU</alpha2Code>
@@ -9901,8 +9901,8 @@
     <flag>https://restcountries.eu/data/niu.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Norfolk Island</name>
     <topLevelDomain array="true">.nf</topLevelDomain>
     <alpha2Code>NF</alpha2Code>
@@ -9950,8 +9950,8 @@
     <flag>https://restcountries.eu/data/nfk.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Korea (Democratic People's Republic of)</name>
     <topLevelDomain array="true">.kp</topLevelDomain>
     <alpha2Code>KP</alpha2Code>
@@ -10002,8 +10002,8 @@
     <flag>https://restcountries.eu/data/prk.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>PRK</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Northern Mariana Islands</name>
     <topLevelDomain array="true">.mp</topLevelDomain>
     <alpha2Code>MP</alpha2Code>
@@ -10057,8 +10057,8 @@
     <flag>https://restcountries.eu/data/mnp.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Norway</name>
     <topLevelDomain array="true">.no</topLevelDomain>
     <alpha2Code>NO</alpha2Code>
@@ -10128,8 +10128,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>NOR</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Oman</name>
     <topLevelDomain array="true">.om</topLevelDomain>
     <alpha2Code>OM</alpha2Code>
@@ -10186,8 +10186,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>OMA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Pakistan</name>
     <topLevelDomain array="true">.pk</topLevelDomain>
     <alpha2Code>PK</alpha2Code>
@@ -10250,8 +10250,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>PAK</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Palau</name>
     <topLevelDomain array="true">.pw</topLevelDomain>
     <alpha2Code>PW</alpha2Code>
@@ -10304,8 +10304,8 @@
     <flag>https://restcountries.eu/data/plw.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>PLW</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Palestine, State of</name>
     <topLevelDomain array="true">.ps</topLevelDomain>
     <alpha2Code>PS</alpha2Code>
@@ -10362,8 +10362,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>PLE</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Panama</name>
     <topLevelDomain array="true">.pa</topLevelDomain>
     <alpha2Code>PA</alpha2Code>
@@ -10422,8 +10422,8 @@
       <otherNames array="true">Sistema de la Integración Centroamericana,</otherNames>
     </regionalBlocs>
     <cioc>PAN</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Papua New Guinea</name>
     <topLevelDomain array="true">.pg</topLevelDomain>
     <alpha2Code>PG</alpha2Code>
@@ -10471,8 +10471,8 @@
     <flag>https://restcountries.eu/data/png.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>PNG</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Paraguay</name>
     <topLevelDomain array="true">.py</topLevelDomain>
     <alpha2Code>PY</alpha2Code>
@@ -10539,8 +10539,8 @@
       <otherNames>South American Union</otherNames>
     </regionalBlocs>
     <cioc>PAR</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Peru</name>
     <topLevelDomain array="true">.pe</topLevelDomain>
     <alpha2Code>PE</alpha2Code>
@@ -10608,8 +10608,8 @@
       <otherNames>South American Union</otherNames>
     </regionalBlocs>
     <cioc>PER</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Philippines</name>
     <topLevelDomain array="true">.ph</topLevelDomain>
     <alpha2Code>PH</alpha2Code>
@@ -10662,8 +10662,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>PHI</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Pitcairn</name>
     <topLevelDomain array="true">.pn</topLevelDomain>
     <alpha2Code>PN</alpha2Code>
@@ -10715,8 +10715,8 @@
     <flag>https://restcountries.eu/data/pcn.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Poland</name>
     <topLevelDomain array="true">.pl</topLevelDomain>
     <alpha2Code>PL</alpha2Code>
@@ -10775,8 +10775,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>POL</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Portugal</name>
     <topLevelDomain array="true">.pt</topLevelDomain>
     <alpha2Code>PT</alpha2Code>
@@ -10831,8 +10831,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>POR</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Puerto Rico</name>
     <topLevelDomain array="true">.pr</topLevelDomain>
     <alpha2Code>PR</alpha2Code>
@@ -10887,8 +10887,8 @@
     <flag>https://restcountries.eu/data/pri.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>PUR</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Qatar</name>
     <topLevelDomain array="true">.qa</topLevelDomain>
     <alpha2Code>QA</alpha2Code>
@@ -10943,8 +10943,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>QAT</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Republic of Kosovo</name>
     <topLevelDomain array="true" string="true" />
     <alpha2Code>XK</alpha2Code>
@@ -11005,8 +11005,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc null="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Réunion</name>
     <topLevelDomain array="true">.re</topLevelDomain>
     <alpha2Code>RE</alpha2Code>
@@ -11062,8 +11062,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Romania</name>
     <topLevelDomain array="true">.ro</topLevelDomain>
     <alpha2Code>RO</alpha2Code>
@@ -11121,8 +11121,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>ROU</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Russian Federation</name>
     <topLevelDomain array="true">.ru</topLevelDomain>
     <alpha2Code>RU</alpha2Code>
@@ -11198,8 +11198,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>RUS</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Rwanda</name>
     <topLevelDomain array="true">.rw</topLevelDomain>
     <alpha2Code>RW</alpha2Code>
@@ -11272,8 +11272,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>RWA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Saint Barthélemy</name>
     <topLevelDomain array="true">.bl</topLevelDomain>
     <alpha2Code>BL</alpha2Code>
@@ -11322,8 +11322,8 @@
     <flag>https://restcountries.eu/data/blm.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Saint Helena, Ascension and Tristan da Cunha</name>
     <topLevelDomain array="true">.sh</topLevelDomain>
     <alpha2Code>SH</alpha2Code>
@@ -11378,8 +11378,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc null="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Saint Kitts and Nevis</name>
     <topLevelDomain array="true">.kn</topLevelDomain>
     <alpha2Code>KN</alpha2Code>
@@ -11433,8 +11433,8 @@
       <otherNames>Caribische Gemeenschap</otherNames>
     </regionalBlocs>
     <cioc>SKN</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Saint Lucia</name>
     <topLevelDomain array="true">.lc</topLevelDomain>
     <alpha2Code>LC</alpha2Code>
@@ -11487,8 +11487,8 @@
       <otherNames>Caribische Gemeenschap</otherNames>
     </regionalBlocs>
     <cioc>LCA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Saint Martin (French part)</name>
     <topLevelDomain>.mf</topLevelDomain>
     <topLevelDomain>.fr</topLevelDomain>
@@ -11551,8 +11551,8 @@
     <flag>https://restcountries.eu/data/maf.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Saint Pierre and Miquelon</name>
     <topLevelDomain array="true">.pm</topLevelDomain>
     <alpha2Code>PM</alpha2Code>
@@ -11599,8 +11599,8 @@
     <flag>https://restcountries.eu/data/spm.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Saint Vincent and the Grenadines</name>
     <topLevelDomain array="true">.vc</topLevelDomain>
     <alpha2Code>VC</alpha2Code>
@@ -11653,8 +11653,8 @@
       <otherNames>Caribische Gemeenschap</otherNames>
     </regionalBlocs>
     <cioc>VIN</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Samoa</name>
     <topLevelDomain array="true">.ws</topLevelDomain>
     <alpha2Code>WS</alpha2Code>
@@ -11708,8 +11708,8 @@
     <flag>https://restcountries.eu/data/wsm.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>SAM</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>San Marino</name>
     <topLevelDomain array="true">.sm</topLevelDomain>
     <alpha2Code>SM</alpha2Code>
@@ -11757,8 +11757,8 @@
     <flag>https://restcountries.eu/data/smr.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>SMR</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Sao Tome and Principe</name>
     <topLevelDomain array="true">.st</topLevelDomain>
     <alpha2Code>ST</alpha2Code>
@@ -11815,8 +11815,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>STP</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Saudi Arabia</name>
     <topLevelDomain array="true">.sa</topLevelDomain>
     <alpha2Code>SA</alpha2Code>
@@ -11877,8 +11877,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>KSA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Senegal</name>
     <topLevelDomain array="true">.sn</topLevelDomain>
     <alpha2Code>SN</alpha2Code>
@@ -11939,8 +11939,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>SEN</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Serbia</name>
     <topLevelDomain array="true">.rs</topLevelDomain>
     <alpha2Code>RS</alpha2Code>
@@ -12002,8 +12002,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>SRB</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Seychelles</name>
     <topLevelDomain array="true">.sc</topLevelDomain>
     <alpha2Code>SC</alpha2Code>
@@ -12067,8 +12067,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>SEY</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Sierra Leone</name>
     <topLevelDomain array="true">.sl</topLevelDomain>
     <alpha2Code>SL</alpha2Code>
@@ -12125,8 +12125,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>SLE</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Singapore</name>
     <topLevelDomain array="true">.sg</topLevelDomain>
     <alpha2Code>SG</alpha2Code>
@@ -12203,8 +12203,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>SIN</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Sint Maarten (Dutch part)</name>
     <topLevelDomain array="true">.sx</topLevelDomain>
     <alpha2Code>SX</alpha2Code>
@@ -12256,8 +12256,8 @@
     <flag>https://restcountries.eu/data/sxm.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Slovakia</name>
     <topLevelDomain array="true">.sk</topLevelDomain>
     <alpha2Code>SK</alpha2Code>
@@ -12314,8 +12314,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>SVK</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Slovenia</name>
     <topLevelDomain array="true">.si</topLevelDomain>
     <alpha2Code>SI</alpha2Code>
@@ -12371,8 +12371,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>SLO</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Solomon Islands</name>
     <topLevelDomain array="true">.sb</topLevelDomain>
     <alpha2Code>SB</alpha2Code>
@@ -12418,8 +12418,8 @@
     <flag>https://restcountries.eu/data/slb.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>SOL</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Somalia</name>
     <topLevelDomain array="true">.so</topLevelDomain>
     <alpha2Code>SO</alpha2Code>
@@ -12494,8 +12494,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>SOM</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>South Africa</name>
     <topLevelDomain array="true">.za</topLevelDomain>
     <alpha2Code>ZA</alpha2Code>
@@ -12612,8 +12612,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>RSA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>South Georgia and the South Sandwich Islands</name>
     <topLevelDomain array="true">.gs</topLevelDomain>
     <alpha2Code>GS</alpha2Code>
@@ -12675,8 +12675,8 @@
       <otherNames>South American Union</otherNames>
     </regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Korea (Republic of)</name>
     <topLevelDomain array="true">.kr</topLevelDomain>
     <alpha2Code>KR</alpha2Code>
@@ -12723,8 +12723,8 @@
     <flag>https://restcountries.eu/data/kor.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>KOR</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>South Sudan</name>
     <topLevelDomain array="true">.ss</topLevelDomain>
     <alpha2Code>SS</alpha2Code>
@@ -12784,8 +12784,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Spain</name>
     <topLevelDomain array="true">.es</topLevelDomain>
     <alpha2Code>ES</alpha2Code>
@@ -12843,8 +12843,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>ESP</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Sri Lanka</name>
     <topLevelDomain array="true">.lk</topLevelDomain>
     <alpha2Code>LK</alpha2Code>
@@ -12903,8 +12903,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>SRI</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Sudan</name>
     <topLevelDomain array="true">.sd</topLevelDomain>
     <alpha2Code>SD</alpha2Code>
@@ -12981,8 +12981,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>SUD</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Suriname</name>
     <topLevelDomain array="true">.sr</topLevelDomain>
     <alpha2Code>SR</alpha2Code>
@@ -13053,8 +13053,8 @@
       <otherNames>South American Union</otherNames>
     </regionalBlocs>
     <cioc>SUR</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Svalbard and Jan Mayen</name>
     <topLevelDomain array="true">.sj</topLevelDomain>
     <alpha2Code>SJ</alpha2Code>
@@ -13101,8 +13101,8 @@
     <flag>https://restcountries.eu/data/sjm.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Swaziland</name>
     <topLevelDomain array="true">.sz</topLevelDomain>
     <alpha2Code>SZ</alpha2Code>
@@ -13169,8 +13169,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>SWZ</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Sweden</name>
     <topLevelDomain array="true">.se</topLevelDomain>
     <alpha2Code>SE</alpha2Code>
@@ -13224,8 +13224,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>SWE</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Switzerland</name>
     <topLevelDomain array="true">.ch</topLevelDomain>
     <alpha2Code>CH</alpha2Code>
@@ -13297,8 +13297,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>SUI</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Syrian Arab Republic</name>
     <topLevelDomain array="true">.sy</topLevelDomain>
     <alpha2Code>SY</alpha2Code>
@@ -13357,8 +13357,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>SYR</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Taiwan</name>
     <topLevelDomain array="true">.tw</topLevelDomain>
     <alpha2Code>TW</alpha2Code>
@@ -13408,8 +13408,8 @@
     <flag>https://restcountries.eu/data/twn.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>TPE</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Tajikistan</name>
     <topLevelDomain array="true">.tj</topLevelDomain>
     <alpha2Code>TJ</alpha2Code>
@@ -13468,8 +13468,8 @@
     <flag>https://restcountries.eu/data/tjk.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>TJK</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Tanzania, United Republic of</name>
     <topLevelDomain array="true">.tz</topLevelDomain>
     <alpha2Code>TZ</alpha2Code>
@@ -13539,8 +13539,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>TAN</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Thailand</name>
     <topLevelDomain array="true">.th</topLevelDomain>
     <alpha2Code>TH</alpha2Code>
@@ -13599,8 +13599,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>THA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Timor-Leste</name>
     <topLevelDomain array="true">.tl</topLevelDomain>
     <alpha2Code>TL</alpha2Code>
@@ -13655,8 +13655,8 @@
     <flag>https://restcountries.eu/data/tls.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>TLS</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Togo</name>
     <topLevelDomain array="true">.tg</topLevelDomain>
     <alpha2Code>TG</alpha2Code>
@@ -13716,8 +13716,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>TOG</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Tokelau</name>
     <topLevelDomain array="true">.tk</topLevelDomain>
     <alpha2Code>TK</alpha2Code>
@@ -13763,8 +13763,8 @@
     <flag>https://restcountries.eu/data/tkl.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Tonga</name>
     <topLevelDomain array="true">.to</topLevelDomain>
     <alpha2Code>TO</alpha2Code>
@@ -13816,8 +13816,8 @@
     <flag>https://restcountries.eu/data/ton.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>TGA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Trinidad and Tobago</name>
     <topLevelDomain array="true">.tt</topLevelDomain>
     <alpha2Code>TT</alpha2Code>
@@ -13871,8 +13871,8 @@
       <otherNames>Caribische Gemeenschap</otherNames>
     </regionalBlocs>
     <cioc>TTO</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Tunisia</name>
     <topLevelDomain array="true">.tn</topLevelDomain>
     <alpha2Code>TN</alpha2Code>
@@ -13938,8 +13938,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>TUN</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Turkey</name>
     <topLevelDomain array="true">.tr</topLevelDomain>
     <alpha2Code>TR</alpha2Code>
@@ -13995,8 +13995,8 @@
     <flag>https://restcountries.eu/data/tur.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>TUR</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Turkmenistan</name>
     <topLevelDomain array="true">.tm</topLevelDomain>
     <alpha2Code>TM</alpha2Code>
@@ -14051,8 +14051,8 @@
     <flag>https://restcountries.eu/data/tkm.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>TKM</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Turks and Caicos Islands</name>
     <topLevelDomain array="true">.tc</topLevelDomain>
     <alpha2Code>TC</alpha2Code>
@@ -14098,8 +14098,8 @@
     <flag>https://restcountries.eu/data/tca.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Tuvalu</name>
     <topLevelDomain array="true">.tv</topLevelDomain>
     <alpha2Code>TV</alpha2Code>
@@ -14150,8 +14150,8 @@
     <flag>https://restcountries.eu/data/tuv.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>TUV</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Uganda</name>
     <topLevelDomain array="true">.ug</topLevelDomain>
     <alpha2Code>UG</alpha2Code>
@@ -14218,8 +14218,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>UGA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Ukraine</name>
     <topLevelDomain array="true">.ua</topLevelDomain>
     <alpha2Code>UA</alpha2Code>
@@ -14272,8 +14272,8 @@
     <flag>https://restcountries.eu/data/ukr.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>UKR</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>United Arab Emirates</name>
     <topLevelDomain array="true">.ae</topLevelDomain>
     <alpha2Code>AE</alpha2Code>
@@ -14328,8 +14328,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>UAE</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>United Kingdom of Great Britain and Northern Ireland</name>
     <topLevelDomain array="true">.uk</topLevelDomain>
     <alpha2Code>GB</alpha2Code>
@@ -14390,8 +14390,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>GBR</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>United States of America</name>
     <topLevelDomain array="true">.us</topLevelDomain>
     <alpha2Code>US</alpha2Code>
@@ -14456,8 +14456,8 @@
       <otherNames>Accord de Libre-échange Nord-Américain</otherNames>
     </regionalBlocs>
     <cioc>USA</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Uruguay</name>
     <topLevelDomain array="true">.uy</topLevelDomain>
     <alpha2Code>UY</alpha2Code>
@@ -14516,8 +14516,8 @@
       <otherNames>South American Union</otherNames>
     </regionalBlocs>
     <cioc>URU</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Uzbekistan</name>
     <topLevelDomain array="true">.uz</topLevelDomain>
     <alpha2Code>UZ</alpha2Code>
@@ -14576,8 +14576,8 @@
     <flag>https://restcountries.eu/data/uzb.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>UZB</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Vanuatu</name>
     <topLevelDomain array="true">.vu</topLevelDomain>
     <alpha2Code>VU</alpha2Code>
@@ -14638,8 +14638,8 @@
     <flag>https://restcountries.eu/data/vut.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc>VAN</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Venezuela (Bolivarian Republic of)</name>
     <topLevelDomain array="true">.ve</topLevelDomain>
     <alpha2Code>VE</alpha2Code>
@@ -14699,8 +14699,8 @@
       <otherNames>South American Union</otherNames>
     </regionalBlocs>
     <cioc>VEN</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Viet Nam</name>
     <topLevelDomain array="true">.vn</topLevelDomain>
     <alpha2Code>VN</alpha2Code>
@@ -14755,8 +14755,8 @@
       <otherNames empty-array="true"></otherNames>
     </regionalBlocs>
     <cioc>VIE</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Wallis and Futuna</name>
     <topLevelDomain array="true">.wf</topLevelDomain>
     <alpha2Code>WF</alpha2Code>
@@ -14804,8 +14804,8 @@
     <flag>https://restcountries.eu/data/wlf.svg</flag>
     <regionalBlocs empty-array="true"></regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Western Sahara</name>
     <topLevelDomain array="true">.eh</topLevelDomain>
     <alpha2Code>EH</alpha2Code>
@@ -14868,8 +14868,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc string="true" />
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Yemen</name>
     <topLevelDomain array="true">.ye</topLevelDomain>
     <alpha2Code>YE</alpha2Code>
@@ -14925,8 +14925,8 @@
       <otherNames>League of Arab States</otherNames>
     </regionalBlocs>
     <cioc>YEM</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Zambia</name>
     <topLevelDomain array="true">.zm</topLevelDomain>
     <alpha2Code>ZM</alpha2Code>
@@ -14989,8 +14989,8 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>ZAM</cioc>
-  </element>
-  <element>
+  </country>
+  <country>
     <name>Zimbabwe</name>
     <topLevelDomain array="true">.zw</topLevelDomain>
     <alpha2Code>ZW</alpha2Code>
@@ -15101,5 +15101,5 @@
       <otherNames>Umoja wa Afrika</otherNames>
     </regionalBlocs>
     <cioc>ZIM</cioc>
-  </element>
-</root>
+  </country>
+</countries>
